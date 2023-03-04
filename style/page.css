@@ -1,0 +1,34 @@
+#social  { width: 80px;
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+footer {background-color:  #4085BF;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px 50px;}
+img {
+    max-width: 200px;}
+    
+
+    nav{background-color: #4085BF;}
+    nav {
+        background-color:  #4085BF;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .logo {max-width: 100px;
+        border-radius: 50%;}
+
+#background{
+    color: #4085BF;
+}
+
+.vueloimg{
+     display: block ;margin: auto;
+    width: 100%;max-width: 100%;
+    
+}
