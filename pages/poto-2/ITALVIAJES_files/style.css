@@ -1,0 +1,750 @@
+.a {
+    text-decoration: none;
+}
+.azul {
+    color: #2a4069;
+}
+.amp {
+    width: 100%;
+    padding-right: 0rem;
+    padding-left: 0rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+.asistencia-img {
+    background-image: url(../assets/BANNER_ASISTENCIA.jpg);
+}
+.alquiler-img {
+    background-image: url(../assets/servicios/banner_vehiculos.jpg);
+    background-repeat: no-repeat;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.btn {
+    display: inline-block;
+}
+.barra {
+    background-color: rgba(255, 255, 255, 0.83);
+    background-repeat: no-repeat;
+}
+.banner_nosotros {
+    margin-bottom: 11rem;
+    margin-top: 4rem;
+}
+.banner_nosotros_img {
+    max-width: 50%;
+    margin-left: 3rem;
+}
+.banner_paquetes {
+    margin-bottom: 8rem;
+    margin-top: 2rem;
+}
+.banner_paquetes_img {
+    max-width: 50%;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+.banner_tips_img {
+    max-width: 250%;
+    margin-left: -5rem;
+    margin-top: -4rem;
+}
+.banner_hoteles {
+    margin-bottom: 11rem;
+    margin-top: 7rem;
+}
+.banner_asistencia {
+    margin-bottom: 12rem;
+    margin-top: 5rem;
+}
+.banner_vehiculo {
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+}
+.banner_convenciones {
+    margin-bottom: 8rem;
+    margin-top: 7rem;
+}
+.banner_contactanos_img {
+    max-width: 50%;
+    margin-left: 2rem;
+    margin-top: 3rem;
+    width: 34rem;
+}
+.btn-outline-primary {
+    border-radius: 3rem;
+    color: #2b2a2ee1;
+    border-color: #25e1eea6;
+}
+.banner-mobile {
+    background-image: url(../assets/slide4.jpg);
+    background-size: cover;
+    height: 70vh;
+}
+.banner-logo {
+    margin-top: 4rem;
+    margin-left: 3rem;
+    width: 18rem;
+}
+.buscador {
+    margin-top: -27%;
+}
+.buscador1 {
+    border-top: 3px solid #E53D30;
+    background-color: #F9F7F8F2;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    width: 800px;
+}
+.let {
+    color: #000;
+}
+.buscador2 {
+    margin-top: 19%;
+}
+.bor {
+    border-radius: 2rem;
+}
+.btn-outline-primaryel {
+    border-radius: 3rem;
+    color: crimson;
+    border-color: crimson;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    /*padding-left: 2rem;
+    padding-right: 2rem;*/
+}
+.btn-outline-danger {
+    border-radius: 3rem;
+}
+.banner_sucursales {
+    margin-bottom: 8rem;
+    margin-top: 4rem;
+    padding-right: 2rem;
+    text-align: right;
+    margin-right: 8rem;
+}
+.banner_sucursales_img {
+    max-width: 90%;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+.borde {
+    border: 0rem;
+}
+.borde-paquetes {
+    border-radius: 1rem;
+}
+.centro-modal-mobile {
+    margin-left: 3.5rem;
+}
+.circulo {
+    border-radius: 8rem;
+}
+.conta {
+    max-width: 90rem;
+    margin-left: -1rem;
+}
+.centrad {
+    margin-left: 9rem;
+}
+.capa1 {
+    margin-top: 0rem;
+    z-index: 0;
+}
+.capa1-mobile {
+    margin-top: 0rem;
+    z-index: 0;
+}
+.capa2 {
+    margin-top: -24rem;
+    position: absolute;
+    z-index: 1;
+}
+.carnet-img {
+    background-image: url(../assets/servicios/Untitled-5.jpg);
+    background-repeat: no-repeat;
+}
+.carn {
+    margin-bottom: 8rem;
+    margin-top: 9rem;
+}
+.convenciones-img {
+    background-image: url(../assets/conveneven.jpg);
+    background-repeat: no-repeat;
+}
+.contactanos-img {
+    background-image: url(../assets/contantn.jpg);
+    background-repeat: no-repeat;
+}
+.compa {
+    margin-top: 3rem;
+}
+.centrado {
+    margin-left: 14.5rem;
+}
+.central {
+    padding-left: 80px;
+}
+.carousel1 {
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+.con {
+    font-size: 1.5rem;
+}
+.card-1 {
+    margin-top: -4rem !important;
+    margin-bottom: 0px !important;
+    border-top: 4px solid #55738f;
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px solid rgba(0, 0, 0, .125);
+    text-align: center;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.cierre {
+    margin-top: -2rem;
+    margin: -2rem;
+}
+.dev {
+    margin-top: 0.5rem;
+}
+.cruceros {
+    width: 27rem;
+    height: 18rem;
+}
+.cum {
+    margin-top: 10rem;
+}
+.derecha {
+    margin-left: 9rem;
+}
+.decoration-none {
+    color: white;
+    text-decoration: none;
+}
+.decoration-none:hover {
+    color: rgba(255, 255, 255, 0.507);
+    text-decoration: none;
+}
+.decoration-none1 {
+    color: black;
+    text-decoration: none;
+}
+.decoration-none1:hover {
+    color: rgba(0, 0, 0, 0.521);
+    text-decoration: none;
+}
+.dalmo {
+    max-width: 38rem;
+}
+.div_margen_azul_1 {
+    top: 0px;
+    left: 0px;
+    width: 648px;
+    height: 28px;
+    padding: 30px 90px;
+    background-color: #4ca1c4;
+}
+.fotopaq {
+    width: 20rem;
+    height: 24rem;
+}
+.fotopaq1 {
+    height: 23.8rem;
+}
+.fotopaq2 {
+    height: 26.7rem;
+}
+.fotopaq3 {
+    height: 25rem;
+}
+.fullpaq {
+    height: 16rem;
+}
+.fondo-tras {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-right: 1rem;
+    color: blue;
+}
+.flex {
+    display: flex;
+    align-items: center;
+}
+.footer {
+    background-color: #989BA7;
+    margin-top: -2rem;
+}
+.footer-nosotros {
+    background-color: #989BA7;
+    margin-top: 2rem;
+}
+.footer-paquetes {
+    background-color: #989BA7;
+    margin-top: 0rem;
+}
+.footer1 {
+    font-size: 1rem;
+    color: white;
+    padding-top: 1rem;
+    margin-left: 6rem
+}
+.footer2 {
+    font-size: .8rem;
+    color: white;
+    background-color: #343A40;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-right: 1px;
+}
+.filter {
+    filter: grayscale(80%);
+}
+.filter:hover {
+    filter: none;
+}
+.filiales {
+    padding-bottom: 4rem;
+    padding-top: 2rem;
+}
+.fondo-claro {
+    background-color: rgba(85, 91, 89, 0.15);
+    padding: 2rem;
+}
+.footer3 {
+    background-color: #989BA7;
+    padding: 1rem;
+    color: white;
+}
+.footer3-1 {
+    background-color: #989BA7;
+    padding: 1rem;
+    color: white;
+    margin-top: 3rem;
+}
+.footer4 {
+    background-color: #989BA7;
+    padding: 1rem;
+    color: white;
+    margin-top: 19rem;
+}
+.footer5 {
+    background-color: #989BA7;
+    padding: 1rem;
+    color: white;
+    margin-top: 2rem;
+}
+.flechas {
+    margin-top: 10rem;
+}
+.fondo-norma {
+    max-width: 100%;
+}
+.flex2 {
+    display: flex;
+    align-items: flex-end;
+}
+.gris {
+    background-color: rgba(152, 155, 167, 0.185);
+    padding: 1rem;
+}
+.hoteles-img {
+    background-image: url(../assets/banner-hoteles.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 2rem;
+}
+.horas24-img {
+    background-image: url(../assets/servicios/Untitled-1.jpg);
+    background-repeat: no-repeat;
+}
+.height-80 {
+    height: 14rem;
+}
+.input[type="submit"] {
+    cursor: pointer;
+    border: 0px;
+    font-size: 15px;
+    color: #FFF;
+}
+.icono {
+    font-size: 2rem;
+    color: white;
+}
+.imw {
+    color: blue;
+}
+.interlineado {
+    margin-top: -.8rem;
+}
+.Instafeed #instagram {
+    background: #f6f6f6;
+    padding-top: 50px;
+}
+#instagram h2 {
+    margin-bottom: 2em;
+}
+#instafeed {
+    max-width: 100%;
+    display: block;
+    margin: 4rem auto;
+    padding: 0px;
+    line-height: 0;
+    text-align: center;
+}
+#instafeed a {
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    line-height: 0;
+    position: relative;
+}
+#instafeed .insta-likes {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0);
+    text-shadow: 0px 0px 0px;
+    font-weight: 400;
+    color: #33323200;
+    font-size: 14px;
+    line-height: 1.7 !important;
+    -webkit-font-smoothing: antialiased;
+    -webkit-transition: opacity 800ms ease;
+    transition: opacity 800ms ease;
+}
+#instafeed .insta-likes:hover {
+    opacity: 1;
+}
+#instafeed li {
+    width: 7rem;
+    display: inline-block;
+    line-height: 0px 0px 0px 0px;
+    margin: 0px 0% 0% 0%;
+    padding: 0px !important;
+}
+#instafeed li img {
+    width: 100% !important;
+}
+@media screen and (max-width: 200px) {}
+#instafeed {
+    width: 90%;
+}
+#instafeed li {
+    width: 29%;
+    margin: -17px 0% 4%;
+}
+.im {
+    border-radius: 3rem;
+    border-color: black;
+}
+.imagen-promo {
+    width: 17rem;
+    height: 12rem;
+}
+.icon-nos {
+    width: 45%;
+}
+.img-paquetes {
+    border-radius: 2rem;
+}
+.jum {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.jumbotron {
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+.margen-bottom {
+    margin-left: 6rem;
+}
+.margin-salon {
+    margin-top: 3rem;
+}
+.margin-nosotros {
+    margin-top: 3rem;
+}
+.margen {
+    padding-left: 3rem;
+}
+.modal-body-inicio {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    color: black;
+}
+.modal-content-inicio {
+    border-radius: 1.5rem;
+    background-image: url(../assets/images/fondomodal5.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mb-5rem {
+    margin-bottom: 5rem;
+}
+.min {
+    margin-left: 0.5rem;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: black;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #343A40;
+}
+.navbar-light .navbar-nav .active .nav-link:hover {
+    color: rgba(63, 62, 62, 0.384);
+}
+.navbar-dark .navbar-toggler {
+    border-color: transparent;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(71, 69, 69, 0.568);
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #343A40;
+}
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #343A40;
+}
+.nosotros-img {
+    background-image: url(../assets/nosotro.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 2rem;
+}
+.noso {
+    margin-top: 0rem;
+}
+.norma {
+    width: 5rem;
+    height: 6rem;
+}
+.negro {
+    margin-left: -3%;
+    color: #000;
+}
+.negro1 {
+    color: black;
+}
+.plomo {
+    color: #343A40;
+}
+.paquetes-img {
+    background-image: url(../assets/banner\ paquetes.jpg);
+    background-repeat: no-repeat;
+}
+.pt2 {
+    padding-top: 3rem;
+}
+.pt2-nosotros {
+    padding-top: 1rem;
+}
+.promociones {
+    background-color: rgba(127, 255, 212, 0.281);
+    /* background-image: url(../assets/promociones/abstract-arctic-art-326240.jpg);*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: -2rem;
+    margin-top: -2rem;
+    padding: 1rem;
+}
+.promo {
+    margin-bottom: 4rem;
+    margin-top: 1rem;
+}
+.paq {
+    margin-top: 4rem;
+}
+.servi3 {
+    margin-top: 2rem;
+}
+.servi4 {
+    padding-top: 2rem;
+}
+.servi5 {
+    margin-left: 1rem;
+}
+.servicio-img {
+    background-image: url(../assets/banner-servicio.jpg);
+    background-repeat: no-repeat;
+}
+.salon-img {
+    background-image: url(../assets/servicios/Salonvip4.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 1rem;
+}
+.seguro-img {
+    background-image: url(../assets/servicios/banner_seguro.jpg);
+    background-repeat: no-repeat;
+}
+.sectionhome {
+    float: left;
+    width: 76rem;
+}
+.separacion {
+    margin-left: 1rem;
+}
+.separacion1 {
+    margin-right: 1rem;
+}
+.separacion2 {
+    padding-bottom: 2rem;
+}
+.separacion3 {
+    margin-top: 1rem;
+}
+.servicios {
+    padding: 0rem;
+}
+.servi {
+    margin-top: 1rem;
+}
+.space {
+    max-width: 80rem;
+    margin-left: 7rem;
+    padding-top: 1rem;
+}
+.sp-hoteles {
+    margin-top: 4rem;
+    /*margin-left: 1rem;*/
+}
+.semic {
+    border-radius: 5rem;
+}
+.semic2 {
+    max-width: 80%;
+}
+.servi1 {
+    margin-top: 2rem;
+    margin-left: -4rem;
+}
+.servi2 {
+    margin-top: 2rem;
+    margin-right: 1rem;
+}
+.sucursales-img {
+    background-image: url(../assets/italviaje\ venezuela.jpg);
+}
+.spa {
+    margin-top: 3rem;
+}
+.servicios-1 {
+    margin-top: 4rem;
+}
+.spacio {
+    margin-left: 2rem;
+}
+.rounded {
+    border-radius: 3.25rem;
+}
+.rojo {
+    color: red;
+}
+.tips-img {
+    background-image: url(../assets/banner\ italcambio\ venezuela3.jpg);
+    background-repeat: no-repeat;
+    padding: 8rem;
+}
+.trenes-img {
+    background-image: url(../assets/servicios/banner_tickets.jpg);
+    background-repeat: no-repeat;
+}
+.turquesa {
+    color: #3bb3e6;
+}
+.titulo {
+    margin-bottom: -0.25rem;
+}
+.text-white {
+    color: #b3bbc6;
+}
+.text-titulo {
+    margin-top: 1rem;
+}
+.tips {
+    background-image: url(../assets/banner\ italcambio\ venezuela2.jpg);
+    background-size: cover;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.tips-s {
+    margin-top: -2rem;
+}
+.trabaja {
+    color: black;
+}
+.trabaja2 {
+    color: #2a4069;
+}
+.titulo-paquetes {
+    padding: 1rem;
+}
+.logo {
+    max-height: 38px;
+    margin-left: 1rem;
+}
+.letras {
+    text-decoration: none;
+    color: white;
+}
+.logo-modal {
+    max-width: 50%;
+}
+.letn {
+    text-decoration-color: none;
+    text-decoration: none;
+    color: black;
+}
+.ui-autocomplete {
+    background-color: #F9F7F8;
+}
+.white {
+    color: #212529;
+}
+.ye {
+    margin-left: -3rem;
+    margin-right: -2rem;
+}
+.remesas {
+    max-height: 38px;
+    max-width: 40%;
+}
+/*
+Full screen Modal 
+*/
+
+.fullscreen-modal .modal-dialog {
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200%;
+}
+@media (min-width: 1768px) {
+    .fullscreen-modal .modal-dialog {
+        width: 1750px;
+    }
+}
+@media (min-width: 992px) {
+    .fullscreen-modal .modal-dialog {
+        width: 970px;
+    }
+}
+@media (min-width: 1200px) {
+    .fullscreen-modal .modal-dialog {
+        width: 1170px;
+    }
+}

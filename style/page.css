@@ -1,0 +1,187 @@
+:root {
+  
+    --primary-color: #4085BF   ;
+    --secondary-color: #F7F3E8 ;
+    --accent1-color: #2575BA;
+    --accent2-color: #0E67B5;
+  
+   
+    --heading-font: "Fresca";
+    --paragraph-font: roboto, Helvetica, sans-serif;
+  
+  
+    
+    --headline-color-on-white: #396E94; 
+    --headline-color-on-color: white;  
+    --paragraph-color-on-white: #396E94;  
+    --paragraph-color-on-color: white; 
+    --paragraph-background-color: #396E94  ;
+    --nav-link-color: #396E94;
+    --nav-background-color: #F7F3E8;
+    --nav-hover-link-color: white;
+    --nav-hover-background-color: #396E94;
+  }
+
+ body{ background-color: #2575BA;}
+#arriba{
+    background-color:#ffffff;
+    border-color: black;
+    border-style: solid;
+}
+
+#social  { max-width: 50px;
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+footer {background-color:  #F7F3E8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px 50px;
+}
+.instagram   {
+    max-width: 50px;}
+.facebook {
+    max-width: 50px;}
+    .twitter{
+        max-width: 50px;}
+    
+
+    nav{background-color: #4085BF;
+    border: black;
+border: solid;}
+
+    nav {
+        background-color: #F7F3E8;
+        display: flex;
+        justify-content: space-around;
+        
+       }
+nav a {
+    padding:1em;
+    min-width: 120px;
+    text-decoration: none;
+    padding: 10px;
+    color: #4085BF;
+    font-size: large;
+    ;
+}
+    .logo {max-width: 100px;
+        border-radius: 50%;
+        transition: transform .5s;}
+
+#background{
+    color: #4085BF;
+}
+
+.vueloimg{
+     display: block ;margin: auto;
+    width: 100%;max-width: 100%;
+    
+    
+}
+nav a:link, nav a:visited {
+    padding: 40px;
+    color: var(--nav-link-color)
+    ;
+  }
+  nav a:hover {
+    color: var(--nav-hover-link-color);
+    background-color: var(--nav-hover-background-color);}
+
+
+.info { display: grid;
+    grid-template-columns: ift 10px 10px;
+    justify-content: space-between;
+    font-size: 2em;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    ;margin-top: 10px;
+    
+}
+.info h4 {grid-column: 1/1;
+grid-row: 2/2;
+font-size: 40px;}  
+.info h1{ grid-column: 1/2;
+grid-row: 1/1;
+text-align:left
+; font-size: 50px;
+font-style: italic;}  
+.foto1 { grid-column: 2/4;
+grid-row: 2/2;
+box-shadow: 5px 5px 10px #060606
+;  border-radius: 5px;
+}
+.foto1:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+  }
+
+.objetivo{ display: grid;
+    grid-template-columns: ift 10px 10px;
+    justify-content: space-between;
+    font-size: 2em;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    ;margin-top: 10px;}
+
+.objetivo h1{ grid-column: 2/2;
+    grid-row: 1/1;
+    text-align:right
+    ; font-size: 50px;} 
+.objetivo h4{grid-column: 2/3;
+    grid-row: 2/2;
+text-align: right;
+font-size: 40px;} 
+
+.oleee{ grid-column: 1/2;
+    grid-row: 2/2;
+    box-shadow: 5px 5px 10px #060606;
+    border-radius: 5px;}
+.oleee:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+
+.ultii{box-shadow: 5px 5px 10px #060606}
+
+.title{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    ;
+    justify-content: space-around;
+    font-size: 2em;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    ;margin-top: 10px;
+    }
+
+.title h1{text-align: center;
+    font-size: 80px;
+    grid-column: 2/3;
+}
+.title h2 {text-align: center;
+    font-size: 50px;
+grid-column: 2/3
+;grid-row: 2/2;}
+
+.valores  {font-size: 90px;
+    font-size: 2em;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    ;}
+
+.objetivo2 { 
+    font-size: 2em;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    ;margin-top: 10px;
+}
+
+
+
+
+.viajes2{
+    font-size: 2em;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    ;margin-top: 10px;}
+
+.objetivo3{ font-size: 2em;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    ;margin-top: 10px;
+
+}
+
